@@ -1,0 +1,26 @@
+a{
+  font-size: xx-large;
+  text-decoration: underline;
+  text-decoration-color: brown;
+  text-decoration-style: wavy;
+}
+/* 
+h1{
+  color: transparent;
+  text-shadow: 4px 4px 5px red, 5px 5px 1px blue;
+} */
+
+h1{
+  font-family: 'honk',verdana;
+  font-size: 70px;
+  /* text-shadow: 4px 4px 10px black; */
+}
+p{
+  font-family: 'honk',verdana;
+  font-size: xx-large;
+  font-weight: 400;
+  font-style: italic; 
+}
+*{
+  background-color: grey;
+}
